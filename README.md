@@ -1,0 +1,2 @@
+# dim_implementation_informationstheoretische_grundlagen_ws_22_24
+Tensorflow implementaion of deep infomax
